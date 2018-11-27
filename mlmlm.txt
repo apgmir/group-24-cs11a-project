@@ -1,0 +1,7 @@
+
+//Notes 11/26/18:
+//Idea:
+//- Adventure game, Brandeis Student themed w/simple games like tennis/snake integrated into storyline. 
+
+
+

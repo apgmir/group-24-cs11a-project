@@ -1,0 +1,84 @@
+welcome to the brandeisian expereince
+enter a name for your avatar
+choose a major
+  stem or humanities?
+choose a year
+choose a residence hall
+ready to start?
+
+good morning! its a monday and you need to get ready for class. what do oyu eat of rbreakfast?
+  yogurt in your room
+    yum dont be late
+  einsteins
+    yum
+  lower
+    sounds good! make sure to bring some tums
+
+whoops! on your way to class you bumped into someone and their drink spilled all over them! what do you do?
+  stem
+    im a premed, i dont have time for this. out my way im late for my 8am
+    help them becuase you are a true brandeis student
+  humanities
+    keep going you are late
+    help them becuase you are a true brandeis student
+
+someone sat in your seat for the lecture. How dare they. You, an outraged student:
+  approach them and tell them to get out of your seat
+    good move. class proceeds
+  passively sit right next to them
+    good move. class proceeds
+  skip class
+    (skip class method)
+    ok, you missed a pop quiz. whoops! zero for you
+
+
+class lecture
+  stem
+  humanities
+
+class is over! time to make use of oyur afternoon. what would you like to do?
+  do homework
+    back to my room
+    go to the library
+      ugh, the library is way too crowded. just go back to your room. you know you wanted to anyway
+
+  go to the gym
+    time to burn off some steeam! lets play tennis, your favorite sport
+    (tennis game)
+    good job!
+
+  time to settle into some work.
+    spanish
+      translating
+    stem
+      generate math quiz
+      use math quiz code from class
+    good work!
+
+wow, you are so hungry after such a long and hard day as a diligent brandeis student.
+what do you want to eat for dinner!
+  sherman
+    nice! go enjoy a comfortable meal with your friends in a stressful environment.
+    make sure to check out both sides because there will not be enough options
+  upper
+    currito
+    deli
+    sushi
+  takeout
+    by far the best option. dont put your body through the atrocities of sodexo. take care of urself
+  stein
+    kick back and get some chicken wings with oyur pals,  maybe there will be music playing!
+    dont forget to grab a beer form the bar, but you MUST bring 2 forms of ID
+
+that was exhausting. time to kick back and relax for the rest of the eveing.
+you definitely dont have any work you should be doing
+what do you want to do to relax?
+  netlfix and chill
+    code redirecting to youtube video
+  game room
+  hang out in your dorm with friends
+  kick back? its time to sleep.
+
+wow. what a day as a hard working, passionate, caring, and inspired student here at this insitution.
+cant wait to do the same thing again tomorrow!
+goodnight

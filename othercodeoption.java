@@ -15,8 +15,8 @@ public class Adventure {
         if (firstOption.equalsIgnoreCase("Lower")) {
             System.out.println("Sounds good make sure to bring some tums");
             
-			if (firstOption.equalsIgnoreCase("Yogurt in the dorm room"))
+		if (firstOption.equalsIgnoreCase("Yogurt in the dorm room"))
             		System.out.println("Yum but don't be late/go back into bed")
-			if(firstOption.equalsIgnoreCase("Esteins")
+		if(firstOption.equalsIgnoreCase("Esteins"))
 				System.out.println("Yum!")
 			

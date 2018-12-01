@@ -24,12 +24,12 @@ public class Adventure {
 				System.out.println("Yum!");
 	System.out.println("whoops! on your way to class you bumped into someone and their drink spilled all over them! what do you do?");
 			if major = stem
-				System.out.println("im premed, i dont have time for this. out my way im late for my 8am [1]")
-				System.out.println("Help them because you are a true brandeis student [2]")
+				System.out.println("im premed, i dont have time for this. out my way im late for my 8am [1]");
+				System.out.println("Help them because you are a true brandeis student [2]");
 				
 				else
-				System.out.println("keep going you are late [1]")
-				System.out.println("Help them because you are a true brandeis student [2]")
+				System.out.println("keep going you are late [1]");
+				System.out.println("Help them because you are a true brandeis student [2]");
 					
 				
 
